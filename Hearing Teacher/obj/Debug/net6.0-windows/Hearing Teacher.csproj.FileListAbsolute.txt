@@ -1,0 +1,21 @@
+D:\Bogumił\Hearing Teacher\Hearing Teacher\bin\Debug\net6.0-windows\Hearing Teacher.exe
+D:\Bogumił\Hearing Teacher\Hearing Teacher\bin\Debug\net6.0-windows\Hearing Teacher.deps.json
+D:\Bogumił\Hearing Teacher\Hearing Teacher\bin\Debug\net6.0-windows\Hearing Teacher.runtimeconfig.json
+D:\Bogumił\Hearing Teacher\Hearing Teacher\bin\Debug\net6.0-windows\Hearing Teacher.dll
+D:\Bogumił\Hearing Teacher\Hearing Teacher\bin\Debug\net6.0-windows\Hearing Teacher.pdb
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.csproj.AssemblyReference.cache
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\App.g.cs
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher_MarkupCompile.cache
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher_MarkupCompile.lref
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.g.resources
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.AssemblyInfoInputs.cache
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.AssemblyInfo.cs
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.csproj.CoreCompileInputs.cache
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.dll
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\refint\Hearing Teacher.dll
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.pdb
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\Hearing Teacher.genruntimeconfig.cache
+D:\Bogumił\Hearing Teacher\Hearing Teacher\obj\Debug\net6.0-windows\ref\Hearing Teacher.dll

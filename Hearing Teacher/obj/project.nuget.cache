@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lw5/92oRxjmUyVkdy6QJmXWo7+v/DBL3qFvoDiRZmB+WMyP/LGJNTBQXtrsjaDwvex8hCD0qoa/BgLtp4x0Ovg==",
+  "success": true,
+  "projectFilePath": "D:\\Bogumił\\Hearing Teacher\\Hearing Teacher\\HearingTeacher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

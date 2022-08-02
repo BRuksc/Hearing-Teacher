@@ -1,0 +1,795 @@
+﻿++Solution 'Hearing Teacher' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Hearing Teacher.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++.editorconfig
+i:{110a6c09-2f91-4b5a-a76e-af6a1d220f91}:D:\Bogumił\Hearing Teacher\.editorconfig
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\.editorconfig
+++HearingTeacher
+i:{00000000-0000-0000-0000-000000000000}:HearingTeacher
+++Dependencies
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:>1205
+++Commands
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\commands\
+++RelayCommand.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\commands\relaycommand.cs
+++Models
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\models\
+++ChordsModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\models\chordsmodel.cs
+++MainModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\models\mainmodel.cs
+++SoundsModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\models\soundsmodel.cs
+++ViewModels
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\viewmodels\
+++ChordsViewModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\viewmodels\chordsviewmodel.cs
+++MainViewModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\viewmodels\mainviewmodel.cs
+++SoundsViewModel.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\viewmodels\soundsviewmodel.cs
+++SummaryWindowViewModel.cs
+++Views
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\
+++Chords.xaml
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\chords.xaml
+++MainWindow.xaml
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\mainwindow.xaml
+++Sounds.xaml
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\sounds.xaml
+++Sounds.xaml.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\sounds.xaml.cs
+++SummaryWindow.xaml
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\summarywindow.xaml
+++SummaryWindow.xaml.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\summarywindow.xaml.cs
+++App.xaml
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\app.xaml
+++AssemblyInfo.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\assemblyinfo.cs
+++Player.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\player.cs
+++Analyzers
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:analyzers
+++Frameworks
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:frameworks
+++Packages
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:packages
+++Chords.xaml.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\chords.xaml.cs
+++MainWindow.xaml.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\views\mainwindow.xaml.cs
+++App.xaml.cs
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\app.xaml.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WPF
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:d:\bogumił\hearing teacher\hearing teacher\microsoft.windowsdesktop.app.wpf
+++Prism.Core (8.1.97)
+i:{bf261aed-e5a1-4b58-811b-c39c883d6e86}:>1213
+++obj
+++Debug
+++Hearing Teacher.csproj.nuget.dgspec.json
+++Hearing Teacher.csproj.nuget.g.props
+++Hearing Teacher.csproj.nuget.g.targets
+++HearingTeacher.csproj.nuget.dgspec.json
+++HearingTeacher.csproj.nuget.g.props
+++HearingTeacher.csproj.nuget.g.targets
+++HearingTeacher_l1a5tqls_wpftmp.csproj.nuget.dgspec.json
+++HearingTeacher_l1a5tqls_wpftmp.csproj.nuget.g.props
+++HearingTeacher_l1a5tqls_wpftmp.csproj.nuget.g.targets
+++HearingTeacher_uyjwlqcd_wpftmp.csproj.nuget.dgspec.json
+++HearingTeacher_uyjwlqcd_wpftmp.csproj.nuget.g.props
+++HearingTeacher_uyjwlqcd_wpftmp.csproj.nuget.g.targets
+++project.assets.json
+++project.nuget.cache
+++net6.0-windows
+++ref
+++refint
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+++App.g.cs
+++App.g.i.cs
+++apphost.exe
+++GeneratedInternalTypeHelper.g.cs
+++GeneratedInternalTypeHelper.g.i.cs
+++Hearing Teacher.AssemblyInfo.cs
+++Hearing Teacher.AssemblyInfoInputs.cache
+++Hearing Teacher.assets.cache
+++Hearing Teacher.csproj.AssemblyReference.cache
+++Hearing Teacher.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher.csproj.CoreCompileInputs.cache
+++Hearing Teacher.csproj.FileListAbsolute.txt
+++Hearing Teacher.designer.deps.json
+++Hearing Teacher.designer.runtimeconfig.json
+++Hearing Teacher.dll
+++Hearing Teacher.g.resources
+++Hearing Teacher.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher.genruntimeconfig.cache
+++Hearing Teacher.pdb
+++Hearing Teacher_11pvmq4y_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_11pvmq4y_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_11pvmq4y_wpftmp.assets.cache
+++Hearing Teacher_11pvmq4y_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_11pvmq4y_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_2pxx0h2a_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_2pxx0h2a_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_2pxx0h2a_wpftmp.assets.cache
+++Hearing Teacher_2pxx0h2a_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_2pxx0h2a_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_4xeg0s4j_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_4xeg0s4j_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_4xeg0s4j_wpftmp.assets.cache
+++Hearing Teacher_4xeg0s4j_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_4xeg0s4j_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_aqex0sqr_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_aqex0sqr_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_aqex0sqr_wpftmp.assets.cache
+++Hearing Teacher_aqex0sqr_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_aqex0sqr_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_arb4if40_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_arb4if40_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_arb4if40_wpftmp.assets.cache
+++Hearing Teacher_arb4if40_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_arb4if40_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_bqfa5u45_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_bqfa5u45_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_bqfa5u45_wpftmp.assets.cache
+++Hearing Teacher_bqfa5u45_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_bqfa5u45_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_bsv4yj5x_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_bsv4yj5x_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_bsv4yj5x_wpftmp.assets.cache
+++Hearing Teacher_bsv4yj5x_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_bsv4yj5x_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_cqoqbk5i_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_cqoqbk5i_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_cqoqbk5i_wpftmp.assets.cache
+++Hearing Teacher_cqoqbk5i_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_cqoqbk5i_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_dceity0z_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_dceity0z_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_dceity0z_wpftmp.assets.cache
+++Hearing Teacher_dceity0z_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_dceity0z_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_ea5bjylp_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_ea5bjylp_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_ea5bjylp_wpftmp.assets.cache
+++Hearing Teacher_ea5bjylp_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_ea5bjylp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_eckwl4ci_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_eckwl4ci_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_eckwl4ci_wpftmp.assets.cache
+++Hearing Teacher_eckwl4ci_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_eckwl4ci_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_eikgzpkx_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_eikgzpkx_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_eikgzpkx_wpftmp.assets.cache
+++Hearing Teacher_eikgzpkx_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_eikgzpkx_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_gt1xknur_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_gt1xknur_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_gt1xknur_wpftmp.assets.cache
+++Hearing Teacher_gt1xknur_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_gt1xknur_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_ic2bsk35_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_ic2bsk35_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_ic2bsk35_wpftmp.assets.cache
+++Hearing Teacher_ic2bsk35_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_ic2bsk35_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_iggsit5z_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_iggsit5z_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_iggsit5z_wpftmp.assets.cache
+++Hearing Teacher_iggsit5z_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_iggsit5z_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_ltgd4kwl_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_ltgd4kwl_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_ltgd4kwl_wpftmp.assets.cache
+++Hearing Teacher_ltgd4kwl_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_ltgd4kwl_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_MarkupCompile.cache
+++Hearing Teacher_MarkupCompile.i.cache
+++Hearing Teacher_MarkupCompile.lref
+++Hearing Teacher_mgj4ecf3_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_mgj4ecf3_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_mgj4ecf3_wpftmp.assets.cache
+++Hearing Teacher_mgj4ecf3_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_mgj4ecf3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_n5fg2exq_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_n5fg2exq_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_n5fg2exq_wpftmp.assets.cache
+++Hearing Teacher_n5fg2exq_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_n5fg2exq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_ocojiptd_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_ocojiptd_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_ocojiptd_wpftmp.assets.cache
+++Hearing Teacher_ocojiptd_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_ocojiptd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_qr201bix_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_qr201bix_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_qr201bix_wpftmp.assets.cache
+++Hearing Teacher_qr201bix_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_qr201bix_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_rajcenqk_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_rajcenqk_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_rajcenqk_wpftmp.assets.cache
+++Hearing Teacher_rajcenqk_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_rajcenqk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_scznm1vu_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_scznm1vu_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_scznm1vu_wpftmp.assets.cache
+++Hearing Teacher_scznm1vu_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_scznm1vu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_sg4oq3yg_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_sg4oq3yg_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_sg4oq3yg_wpftmp.assets.cache
+++Hearing Teacher_sg4oq3yg_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_sg4oq3yg_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_vikoftx0_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_vikoftx0_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_vikoftx0_wpftmp.assets.cache
+++Hearing Teacher_vikoftx0_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_vikoftx0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_vy4sr3tc_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_vy4sr3tc_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_vy4sr3tc_wpftmp.assets.cache
+++Hearing Teacher_vy4sr3tc_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_vy4sr3tc_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_z3u53c2f_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_z3u53c2f_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_z3u53c2f_wpftmp.assets.cache
+++Hearing Teacher_z3u53c2f_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_z3u53c2f_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_znrk0omr_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_znrk0omr_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_znrk0omr_wpftmp.assets.cache
+++Hearing Teacher_znrk0omr_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_znrk0omr_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++Hearing Teacher_zqgqwmyh_wpftmp.AssemblyInfo.cs
+++Hearing Teacher_zqgqwmyh_wpftmp.AssemblyInfoInputs.cache
+++Hearing Teacher_zqgqwmyh_wpftmp.assets.cache
+++Hearing Teacher_zqgqwmyh_wpftmp.csproj.BuildWithSkipAnalyzers
+++Hearing Teacher_zqgqwmyh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher.AssemblyInfo.cs
+++HearingTeacher.AssemblyInfoInputs.cache
+++HearingTeacher.assets.cache
+++HearingTeacher.csproj.AssemblyReference.cache
+++HearingTeacher.csproj.BuildWithSkipAnalyzers
+++HearingTeacher.csproj.CopyComplete
+++HearingTeacher.csproj.CoreCompileInputs.cache
+++HearingTeacher.csproj.FileListAbsolute.txt
+++HearingTeacher.designer.deps.json
+++HearingTeacher.designer.runtimeconfig.json
+++HearingTeacher.dll
+++HearingTeacher.g.resources
+++HearingTeacher.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher.genruntimeconfig.cache
+++HearingTeacher.pdb
+++HearingTeacher_0eyi0wr0_wpftmp.AssemblyInfo.cs
+++HearingTeacher_0eyi0wr0_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_0eyi0wr0_wpftmp.assets.cache
+++HearingTeacher_0eyi0wr0_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_0eyi0wr0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_0lwrotpx_wpftmp.AssemblyInfo.cs
+++HearingTeacher_0lwrotpx_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_0lwrotpx_wpftmp.assets.cache
+++HearingTeacher_0lwrotpx_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_0lwrotpx_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_0medjy4w_wpftmp.AssemblyInfo.cs
+++HearingTeacher_0medjy4w_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_0medjy4w_wpftmp.assets.cache
+++HearingTeacher_0medjy4w_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_0medjy4w_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_1i1tzngo_wpftmp.AssemblyInfo.cs
+++HearingTeacher_1i1tzngo_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_1i1tzngo_wpftmp.assets.cache
+++HearingTeacher_1i1tzngo_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_1i1tzngo_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_1r2calli_wpftmp.AssemblyInfo.cs
+++HearingTeacher_1r2calli_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_1r2calli_wpftmp.assets.cache
+++HearingTeacher_1r2calli_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_1r2calli_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_1u0mt0qy_wpftmp.AssemblyInfo.cs
+++HearingTeacher_1u0mt0qy_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_1u0mt0qy_wpftmp.assets.cache
+++HearingTeacher_1u0mt0qy_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_1u0mt0qy_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_2jmxqk3j_wpftmp.AssemblyInfo.cs
+++HearingTeacher_2jmxqk3j_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_2jmxqk3j_wpftmp.assets.cache
+++HearingTeacher_2jmxqk3j_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_2jmxqk3j_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_3cwezumu_wpftmp.AssemblyInfo.cs
+++HearingTeacher_3cwezumu_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_3cwezumu_wpftmp.assets.cache
+++HearingTeacher_3cwezumu_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_3cwezumu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_3nlc1xi0_wpftmp.AssemblyInfo.cs
+++HearingTeacher_3nlc1xi0_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_3nlc1xi0_wpftmp.assets.cache
+++HearingTeacher_3nlc1xi0_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_3nlc1xi0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_44xkyx5p_wpftmp.AssemblyInfo.cs
+++HearingTeacher_44xkyx5p_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_44xkyx5p_wpftmp.assets.cache
+++HearingTeacher_44xkyx5p_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_44xkyx5p_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_4hzeu2qe_wpftmp.AssemblyInfo.cs
+++HearingTeacher_4hzeu2qe_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_4hzeu2qe_wpftmp.assets.cache
+++HearingTeacher_4hzeu2qe_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_4hzeu2qe_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_4kjaaj51_wpftmp.AssemblyInfo.cs
+++HearingTeacher_4kjaaj51_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_4kjaaj51_wpftmp.assets.cache
+++HearingTeacher_4kjaaj51_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_4kjaaj51_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_4mu53erz_wpftmp.AssemblyInfo.cs
+++HearingTeacher_4mu53erz_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_4mu53erz_wpftmp.assets.cache
+++HearingTeacher_4mu53erz_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_4mu53erz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_5dltf5ji_wpftmp.AssemblyInfo.cs
+++HearingTeacher_5dltf5ji_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_5dltf5ji_wpftmp.assets.cache
+++HearingTeacher_5dltf5ji_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_5dltf5ji_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_5qalbi5u_wpftmp.AssemblyInfo.cs
+++HearingTeacher_5qalbi5u_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_5qalbi5u_wpftmp.assets.cache
+++HearingTeacher_5qalbi5u_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_5qalbi5u_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_5yguk4g3_wpftmp.AssemblyInfo.cs
+++HearingTeacher_5yguk4g3_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_5yguk4g3_wpftmp.assets.cache
+++HearingTeacher_5yguk4g3_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_5yguk4g3_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_5ynhbe40_wpftmp.AssemblyInfo.cs
+++HearingTeacher_5ynhbe40_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_5ynhbe40_wpftmp.assets.cache
+++HearingTeacher_5ynhbe40_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_5ynhbe40_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_aigb1jwp_wpftmp.AssemblyInfo.cs
+++HearingTeacher_aigb1jwp_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_aigb1jwp_wpftmp.assets.cache
+++HearingTeacher_aigb1jwp_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_aigb1jwp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_avn3atpu_wpftmp.AssemblyInfo.cs
+++HearingTeacher_avn3atpu_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_avn3atpu_wpftmp.assets.cache
+++HearingTeacher_avn3atpu_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_avn3atpu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_cnzdq04e_wpftmp.AssemblyInfo.cs
+++HearingTeacher_cnzdq04e_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_cnzdq04e_wpftmp.assets.cache
+++HearingTeacher_cnzdq04e_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_cnzdq04e_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_d1y3jvc4_wpftmp.AssemblyInfo.cs
+++HearingTeacher_d1y3jvc4_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_d1y3jvc4_wpftmp.assets.cache
+++HearingTeacher_d1y3jvc4_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_d1y3jvc4_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_d23r5rgn_wpftmp.AssemblyInfo.cs
+++HearingTeacher_d23r5rgn_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_d23r5rgn_wpftmp.assets.cache
+++HearingTeacher_d23r5rgn_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_d23r5rgn_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_d4jf0e5f_wpftmp.AssemblyInfo.cs
+++HearingTeacher_d4jf0e5f_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_d4jf0e5f_wpftmp.assets.cache
+++HearingTeacher_d4jf0e5f_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_d4jf0e5f_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_dbshjphp_wpftmp.AssemblyInfo.cs
+++HearingTeacher_dbshjphp_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_dbshjphp_wpftmp.assets.cache
+++HearingTeacher_dbshjphp_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_dbshjphp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_etun4qh0_wpftmp.AssemblyInfo.cs
+++HearingTeacher_etun4qh0_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_etun4qh0_wpftmp.assets.cache
+++HearingTeacher_etun4qh0_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_etun4qh0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_fr2rkkby_wpftmp.AssemblyInfo.cs
+++HearingTeacher_fr2rkkby_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_fr2rkkby_wpftmp.assets.cache
+++HearingTeacher_fr2rkkby_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_fr2rkkby_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_fw1gl1x0_wpftmp.AssemblyInfo.cs
+++HearingTeacher_fw1gl1x0_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_fw1gl1x0_wpftmp.assets.cache
+++HearingTeacher_fw1gl1x0_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_fw1gl1x0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_gcdpagj2_wpftmp.AssemblyInfo.cs
+++HearingTeacher_gcdpagj2_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_gcdpagj2_wpftmp.assets.cache
+++HearingTeacher_gcdpagj2_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_gcdpagj2_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_gjbtq3dj_wpftmp.AssemblyInfo.cs
+++HearingTeacher_gjbtq3dj_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_gjbtq3dj_wpftmp.assets.cache
+++HearingTeacher_gjbtq3dj_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_gjbtq3dj_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_h014wgqa_wpftmp.AssemblyInfo.cs
+++HearingTeacher_h014wgqa_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_h014wgqa_wpftmp.assets.cache
+++HearingTeacher_h014wgqa_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_h014wgqa_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_hbhiz0gj_wpftmp.AssemblyInfo.cs
+++HearingTeacher_hbhiz0gj_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_hbhiz0gj_wpftmp.assets.cache
+++HearingTeacher_hbhiz0gj_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_hbhiz0gj_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_hjxo5dic_wpftmp.AssemblyInfo.cs
+++HearingTeacher_hjxo5dic_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_hjxo5dic_wpftmp.assets.cache
+++HearingTeacher_hjxo5dic_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_hjxo5dic_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_hlluyhk4_wpftmp.AssemblyInfo.cs
+++HearingTeacher_hlluyhk4_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_hlluyhk4_wpftmp.assets.cache
+++HearingTeacher_hlluyhk4_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_hlluyhk4_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_hwhepl51_wpftmp.AssemblyInfo.cs
+++HearingTeacher_hwhepl51_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_hwhepl51_wpftmp.assets.cache
+++HearingTeacher_hwhepl51_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_hwhepl51_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_j3dwouwp_wpftmp.AssemblyInfo.cs
+++HearingTeacher_j3dwouwp_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_j3dwouwp_wpftmp.assets.cache
+++HearingTeacher_j3dwouwp_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_j3dwouwp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_jbdmcboe_wpftmp.AssemblyInfo.cs
+++HearingTeacher_jbdmcboe_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_jbdmcboe_wpftmp.assets.cache
+++HearingTeacher_jbdmcboe_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_jbdmcboe_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_l1a5tqls_wpftmp.AssemblyInfo.cs
+++HearingTeacher_l1a5tqls_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_l1a5tqls_wpftmp.assets.cache
+++HearingTeacher_l1a5tqls_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_l4n3gd30_wpftmp.AssemblyInfo.cs
+++HearingTeacher_l4n3gd30_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_l4n3gd30_wpftmp.assets.cache
+++HearingTeacher_l4n3gd30_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_l4n3gd30_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_lulacdrl_wpftmp.AssemblyInfo.cs
+++HearingTeacher_lulacdrl_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_lulacdrl_wpftmp.assets.cache
+++HearingTeacher_lulacdrl_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_lulacdrl_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_lyl5s1ug_wpftmp.AssemblyInfo.cs
+++HearingTeacher_lyl5s1ug_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_lyl5s1ug_wpftmp.assets.cache
+++HearingTeacher_lyl5s1ug_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_lyl5s1ug_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_m3kjqb0m_wpftmp.AssemblyInfo.cs
+++HearingTeacher_m3kjqb0m_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_m3kjqb0m_wpftmp.assets.cache
+++HearingTeacher_m3kjqb0m_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_m3kjqb0m_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_MarkupCompile.cache
+++HearingTeacher_MarkupCompile.i.cache
+++HearingTeacher_MarkupCompile.lref
+++HearingTeacher_mglpxpbr_wpftmp.AssemblyInfo.cs
+++HearingTeacher_mglpxpbr_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_mglpxpbr_wpftmp.assets.cache
+++HearingTeacher_mglpxpbr_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_mglpxpbr_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_msg5iv1u_wpftmp.AssemblyInfo.cs
+++HearingTeacher_msg5iv1u_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_msg5iv1u_wpftmp.assets.cache
+++HearingTeacher_msg5iv1u_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_msg5iv1u_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_nde02eml_wpftmp.AssemblyInfo.cs
+++HearingTeacher_nde02eml_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_nde02eml_wpftmp.assets.cache
+++HearingTeacher_nde02eml_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_nde02eml_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_nyo00lj2_wpftmp.AssemblyInfo.cs
+++HearingTeacher_nyo00lj2_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_nyo00lj2_wpftmp.assets.cache
+++HearingTeacher_nyo00lj2_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_nyo00lj2_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_o2nkuoee_wpftmp.AssemblyInfo.cs
+++HearingTeacher_o2nkuoee_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_o2nkuoee_wpftmp.assets.cache
+++HearingTeacher_o2nkuoee_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_o2nkuoee_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_ocqyt2rv_wpftmp.AssemblyInfo.cs
+++HearingTeacher_ocqyt2rv_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_ocqyt2rv_wpftmp.assets.cache
+++HearingTeacher_ocqyt2rv_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_ocqyt2rv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_ou2cfw2x_wpftmp.AssemblyInfo.cs
+++HearingTeacher_ou2cfw2x_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_ou2cfw2x_wpftmp.assets.cache
+++HearingTeacher_ou2cfw2x_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_ou2cfw2x_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_owv0q1nn_wpftmp.AssemblyInfo.cs
+++HearingTeacher_owv0q1nn_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_owv0q1nn_wpftmp.assets.cache
+++HearingTeacher_owv0q1nn_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_owv0q1nn_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_pvwt1fqu_wpftmp.AssemblyInfo.cs
+++HearingTeacher_pvwt1fqu_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_pvwt1fqu_wpftmp.assets.cache
+++HearingTeacher_pvwt1fqu_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_pvwt1fqu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_q1ywhz33_wpftmp.AssemblyInfo.cs
+++HearingTeacher_q1ywhz33_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_q1ywhz33_wpftmp.assets.cache
+++HearingTeacher_q1ywhz33_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_q1ywhz33_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_q52krnn4_wpftmp.AssemblyInfo.cs
+++HearingTeacher_q52krnn4_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_q52krnn4_wpftmp.assets.cache
+++HearingTeacher_q52krnn4_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_q52krnn4_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_rbu3aodh_wpftmp.AssemblyInfo.cs
+++HearingTeacher_rbu3aodh_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_rbu3aodh_wpftmp.assets.cache
+++HearingTeacher_rbu3aodh_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_rbu3aodh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_rinrvdpa_wpftmp.AssemblyInfo.cs
+++HearingTeacher_rinrvdpa_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_rinrvdpa_wpftmp.assets.cache
+++HearingTeacher_rinrvdpa_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_rinrvdpa_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_sjflctqg_wpftmp.AssemblyInfo.cs
+++HearingTeacher_sjflctqg_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_sjflctqg_wpftmp.assets.cache
+++HearingTeacher_sjflctqg_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_sjflctqg_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_szo4o3tz_wpftmp.AssemblyInfo.cs
+++HearingTeacher_szo4o3tz_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_szo4o3tz_wpftmp.assets.cache
+++HearingTeacher_szo4o3tz_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_szo4o3tz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_t45yp5sc_wpftmp.AssemblyInfo.cs
+++HearingTeacher_t45yp5sc_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_t45yp5sc_wpftmp.assets.cache
+++HearingTeacher_t45yp5sc_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_t45yp5sc_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_t5u30h1y_wpftmp.AssemblyInfo.cs
+++HearingTeacher_t5u30h1y_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_t5u30h1y_wpftmp.assets.cache
+++HearingTeacher_t5u30h1y_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_t5u30h1y_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_tpkftfy5_wpftmp.AssemblyInfo.cs
+++HearingTeacher_tpkftfy5_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_tpkftfy5_wpftmp.assets.cache
+++HearingTeacher_tpkftfy5_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_tpkftfy5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_uhzncnw1_wpftmp.AssemblyInfo.cs
+++HearingTeacher_uhzncnw1_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_uhzncnw1_wpftmp.assets.cache
+++HearingTeacher_uhzncnw1_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_uhzncnw1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_ujljrlrm_wpftmp.AssemblyInfo.cs
+++HearingTeacher_ujljrlrm_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_ujljrlrm_wpftmp.assets.cache
+++HearingTeacher_ujljrlrm_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_ujljrlrm_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_uvbvndr2_wpftmp.AssemblyInfo.cs
+++HearingTeacher_uvbvndr2_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_uvbvndr2_wpftmp.assets.cache
+++HearingTeacher_uvbvndr2_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_uvbvndr2_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_uyjwlqcd_wpftmp.AssemblyInfo.cs
+++HearingTeacher_uyjwlqcd_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_uyjwlqcd_wpftmp.assets.cache
+++HearingTeacher_uyjwlqcd_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_v1vle1mp_wpftmp.AssemblyInfo.cs
+++HearingTeacher_v1vle1mp_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_v1vle1mp_wpftmp.assets.cache
+++HearingTeacher_v1vle1mp_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_v1vle1mp_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_vlct4rnx_wpftmp.AssemblyInfo.cs
+++HearingTeacher_vlct4rnx_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_vlct4rnx_wpftmp.assets.cache
+++HearingTeacher_vlct4rnx_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_vlct4rnx_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_w1ercbx5_wpftmp.AssemblyInfo.cs
+++HearingTeacher_w1ercbx5_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_w1ercbx5_wpftmp.assets.cache
+++HearingTeacher_w1ercbx5_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_w1ercbx5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_w33dyemv_wpftmp.AssemblyInfo.cs
+++HearingTeacher_w33dyemv_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_w33dyemv_wpftmp.assets.cache
+++HearingTeacher_w33dyemv_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_w33dyemv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_w4m4qyvv_wpftmp.AssemblyInfo.cs
+++HearingTeacher_w4m4qyvv_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_w4m4qyvv_wpftmp.assets.cache
+++HearingTeacher_w4m4qyvv_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_w4m4qyvv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_wfpdjww0_wpftmp.AssemblyInfo.cs
+++HearingTeacher_wfpdjww0_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_wfpdjww0_wpftmp.assets.cache
+++HearingTeacher_wfpdjww0_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_wfpdjww0_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_wvvfzqfu_wpftmp.AssemblyInfo.cs
+++HearingTeacher_wvvfzqfu_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_wvvfzqfu_wpftmp.assets.cache
+++HearingTeacher_wvvfzqfu_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_wvvfzqfu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_wxnbs3lk_wpftmp.AssemblyInfo.cs
+++HearingTeacher_wxnbs3lk_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_wxnbs3lk_wpftmp.assets.cache
+++HearingTeacher_wxnbs3lk_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_wxnbs3lk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_xoncyymu_wpftmp.AssemblyInfo.cs
+++HearingTeacher_xoncyymu_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_xoncyymu_wpftmp.assets.cache
+++HearingTeacher_xoncyymu_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_xoncyymu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_xvu021iq_wpftmp.AssemblyInfo.cs
+++HearingTeacher_xvu021iq_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_xvu021iq_wpftmp.assets.cache
+++HearingTeacher_xvu021iq_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_xvu021iq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_y0nufdz2_wpftmp.AssemblyInfo.cs
+++HearingTeacher_y0nufdz2_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_y0nufdz2_wpftmp.assets.cache
+++HearingTeacher_y0nufdz2_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_y0nufdz2_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_ybce2hha_wpftmp.AssemblyInfo.cs
+++HearingTeacher_ybce2hha_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_ybce2hha_wpftmp.assets.cache
+++HearingTeacher_ybce2hha_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_ybce2hha_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++HearingTeacher_yr2th2c5_wpftmp.AssemblyInfo.cs
+++HearingTeacher_yr2th2c5_wpftmp.AssemblyInfoInputs.cache
+++HearingTeacher_yr2th2c5_wpftmp.assets.cache
+++HearingTeacher_yr2th2c5_wpftmp.csproj.BuildWithSkipAnalyzers
+++HearingTeacher_yr2th2c5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig
+++MainWindow.g.i.cs
+++AbstractView.g.i.cs
+++Chords.baml
+++Chords.g.cs
+++Chords.g.i.cs
+++MainWindow.baml
+++MainWindow.g.cs
+++Sounds.baml
+++Sounds.g.cs
+++Sounds.g.i.cs
+++SummaryWindow.g.i.cs
+++Imports
+++Sdk.props
+++Sdk.targets
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Windows.targets
+++Microsoft.NET.Sdk.WindowsDesktop.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++Microsoft.WinFX.targets
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++HearingTeacher.csproj.user
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Microsoft.Docker.targets
+++bin
+++Hearing Teacher.deps.json
+++Hearing Teacher.exe
+++Hearing Teacher.runtimeconfig.json
+++HearingTeacher.deps.json
+++HearingTeacher.exe
+++HearingTeacher.runtimeconfig.json
+++Prism.dll
+++SummaryWindow.xaml.cs~RF5277e459.TMP
+++SummaryWindow.xaml.cs~RF527a237b.TMP
+++SummaryWindow.xaml~RF527c96bd.TMP
+++SummaryWindow.xaml~RF527df18a.TMP
+++SummaryWindow.xaml~RF5280019e.TMP
+++SummaryWindow.xaml~RF52808fa5.TMP
+++SummaryWindow.xaml~RF52828bf2.TMP
+++SummaryWindow.xaml~RF528370f3.TMP
+++SummaryWindow.xaml.cs~RF528751a0.TMP
+++SummaryWindow.xaml~RF52893e7c.TMP
+++SummaryWindow.xaml~RF528c3edb.TMP
+++SummaryWindow.xaml.cs~RF528ce4a1.TMP
+++SummaryWindow.xaml.cs~RF528f736a.TMP
+++SummaryWindow.xaml.cs~RF5290c677.TMP
+++SummaryWindow.xaml.cs~RF52918717.TMP
+++SummaryWindow.xaml.cs~RF52927475.TMP
+++nbyf0nqi.2sr~
+++SummaryWindow.xaml~RF529414f6.TMP
+++Sounds.xaml~RF52960c22.TMP
+++Sounds.xaml~RF52975ae9.TMP
+++pwzutwas.hvr~
+++SummaryWindow.xaml~RF529b4f9b.TMP
+++SummaryWindow.xaml~RF529cf453.TMP
